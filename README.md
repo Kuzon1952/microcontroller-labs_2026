@@ -68,12 +68,12 @@ The objective of these labs is to gain practical experience in:
 
 ## 📁 Project Structure
 microcontroller-labs/
-│
-├── Lab1/
-├── Lab2/
-├── Lab3/
-├── Lab4/
-└── README.md
+- │
+- ├── Lab1/
+- ├── Lab2/
+- ├── Lab3/
+- ├── Lab4/
+- └── README.md
 
 
 ---
